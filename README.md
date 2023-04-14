@@ -1,7 +1,7 @@
 ### Olá! Sou o André Magalhães 👋
 
 
-- 🔭 Atualmente trabalho como desenvlvedor freelancer.
+- 🔭 Atualmente trabalho como desenvolvedor freelancer.
 - 🌱 Estou aprendendo React JS e React Native.
 - 👯 Estou em busca de fidelização com empresas no ramo.
 - 📫 Pode me contatar no endereço andre.emprego99@gmail.com.
