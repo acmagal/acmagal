@@ -9,8 +9,8 @@
 - ⚡ Fun fact: Tenho uma impressora 3D e gosto de pintar miniaturas.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acmagal&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmagal)](https://github.com/acmagal/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acmagal&show_icons=true&theme=radical)
 
 
 <div> 
