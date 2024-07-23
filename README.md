@@ -4,7 +4,6 @@
 - 🔭 Atualmente trabalho como Operational Support Specialist na Kanttum - Plataforma para desenvolvimento de equipes.
 - 🌱 Estou aprendendo React JS e React Native.
 - 📫 Pode me contatar no endereço andre.emprego99@gmail.com.
-- 😄 Pronouns: Ele/Dele.
 - ⚡ Fun fact: Tenho uma impressora 3D e gosto de pintar miniaturas.
 
 
