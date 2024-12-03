@@ -1,10 +1,12 @@
 ### Olá! Sou o André Magalhães 👋
 
 
-- 🔭 Atualmente trabalho como Operational Support Specialist na Kanttum - Plataforma para desenvolvimento de equipes.
-- 🌱 Estou aprendendo React JS e React Native.
+- 🔭 Atualmente trabalho como Desenvolvedor Freelancer.
+- 🌱 Sou versado em ReactJS, React Native, Node.js e estou desenvolvendo meu site de portifólio virtual.
 - 📫 Pode me contatar no endereço andre.emprego99@gmail.com.
-- ⚡ Fun fact: Tenho uma impressora 3D e gosto de pintar miniaturas.
+- ⚡ Fun fact: Tenho uma impressora 3D. Adoro Software e Hardware. Intercalo meus estudos de Web e Mobile com a manutenção da Ender 3 Pro e produção de miniaturas para campanhas de Dungeons & Dragons.
+
+  Me manda uma mensagem aê! 😂🤞
 
 
 
